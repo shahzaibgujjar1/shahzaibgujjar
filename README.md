@@ -14,7 +14,7 @@ Certified Media Buyer specializing in Google Ads &amp; Facebook Ads strategies f
 The client had a high-quality organic product but was struggling to get sales.
 * **Problem:** The market is flooded with generic "dog perfumes."
 * **Pain Point:** Pet owners didn't trust that a spray could actually remove "wet dog smell" without harming the pet's skin.
-* **Goal:** We needed to prove it's safe, effective, and has a dual benefit (Smell + Anxiety Relief).
+* **Goal:** We needed to prove it's safe, effective and has a dual benefit (Smell + Anxiety Relief).
 
 ---
 
@@ -22,12 +22,12 @@ The client had a high-quality organic product but was struggling to get sales.
 
 ### **Phase 1: Competitor Analysis & USP**
 I analyzed 5 top competitors and found a gap: Most were selling "Perfume."
-**My Angle:** I positioned this product as **"Therapy in a Bottle"** — solving both the bad smell *and* the dog's anxiety (e.g., during thunderstorms or car rides).
+**My Angle:** I positioned this product as **"Therapy in a Bottle"**  solving both the bad smell *and* the dog's anxiety (e.g., during thunderstorms or car rides).
 
 ### **Phase 2: Building the Buyer Persona**
 I didn't just target "Dog Lovers." I created a specific avatar:
 * **Avatar:** "The Empathetic Dog Mom."
-* **Demographics:** Women, 25-45, USA/UK/Canada.
+* **Demographics:** Women, 25-45, USA.
 * **Interests:** Dog grooming, Dog behavior, Natural products, Caesar Millan.
 * **Pain Points:** Embarrassed by house smell when guests arrive; worried about their dog's stress.
 
@@ -53,7 +53,7 @@ I tested two different hooks to see what worked best:
 > **Primary Text:**
 > Stop masking the smell with chemicals. 🚫
 >
-> Meet the **Lavender Essential Oil Deodorizing Spray** – 100% Natural, Safe, and soothing for your furry friend. Perfect for:
+> Meet the **Lavender Essential Oil Deodorizing Spray** – 100% Natural Safe and soothing for your furry friend. Perfect for:
 > ✅ Post-walk "wet dog" smells.
 > ✅ Calming anxious pups during storms.
 > ✅ Freshening up bedding between washes.
@@ -79,6 +79,7 @@ After 30 days of optimization and scaling the winning "Calming" creative:
 ---
 
 ### **Key Takeaway**
-By shifting the focus from just "smell" to "wellness & calming," we tapped into an emotional buying trigger, resulting in higher conversion rates and lower ad costs.
+By shifting the focus from just "smell" to "wellness & calming," we tapped into an emotional buying trigger resulting in higher conversion rates and lower ad costs.
+
 ![dogadsresult](https://github.com/user-attachments/assets/7c43e051-546d-4338-9369-8048a7a78ae4)
 
