@@ -145,7 +145,8 @@ This project showed that for premium products, educating the customer on "Ingred
 
 ![ACANA Cat Food](https://github.com/user-attachments/assets/8da84c06-96ca-40cc-ab46-b5a93d954dbc)
 
-![Uploading acana googleads.jpg…]()
+![acana googleads](https://github.com/user-attachments/assets/2b920113-805e-47a8-8939-240fee01c783)
+
 
 
 
