@@ -143,7 +143,7 @@ The magic of this campaign was the recurring purchases.
 
 This project showed that for premium products, educating the customer on "Ingredients" (Rabbit, Herring) works better than just offering a discount.
 
-![ACANA Cat Food](https://github.com/user-attachments/assets/8da84c06-96ca-40cc-ab46-b5a93d954dbc)
+![ACANA Cat Food](https://github.com/user-attachments/assets/e6bda797-adcc-45d8-b9a0-2e00e5e4d838)
 
 ![acana googleads](https://github.com/user-attachments/assets/2b920113-805e-47a8-8939-240fee01c783)
 
