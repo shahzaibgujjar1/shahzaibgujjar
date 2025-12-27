@@ -82,7 +82,8 @@ After 30 days of optimization and scaling the winning "Calming" creative:
 ### **Key Takeaway**
 By shifting the focus from just "smell" to "wellness & calming," we tapped into an emotional buying trigger resulting in higher conversion rates and lower ad costs.
 
-![dogadsresult](https://github.com/user-attachments/assets/7c43e051-546d-4338-9369-8048a7a78ae4)
+![dogadsresult](https://github.com/user-attachments/assets/6020130a-6406-470c-b528-8f2c57919457)
+
 
 
 ---
