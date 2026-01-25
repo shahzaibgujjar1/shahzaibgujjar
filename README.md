@@ -1,4 +1,66 @@
 # shahzaibgujjar
+<img width="1340" height="728" alt="p1" src="https://github.com/user-attachments/assets/97555912-4ba1-414c-acd9-11a11454ff86" />
+<img width="1363" height="767" alt="buk" src="https://github.com/user-attachments/assets/ace7cd6f-6cbe-46c0-9652-fbed4876432c" />
+<img width="1366" height="754" alt="13" src="https://github.com/user-attachments/assets/186a5519-8c36-46d9-a990-1618679ed550" />
+<img width="1365" height="768" alt="12" src="https://github.com/user-attachments/assets/1dc9ea03-c537-4609-8a67-b78e4db25dd2" />
+<img width="1355" height="722" alt="11" src="https://github.com/user-attachments/assets/dc90f809-cfef-4357-a405-157f1e8d11ed" />
+<img width="1364" height="768" alt="10" src="https://github.com/user-attachments/assets/8059689e-e31b-4d3d-9efe-f2ffbac869f3" />
+<img width="1359" height="768" alt="9" src="https://github.com/user-attachments/assets/c6973f8f-371b-49fe-aea2-a91f59bee687" />
+<img width="1356" height="723" alt="8" src="https://github.com/user-attachments/assets/ef08314b-52a6-4d85-8172-3b0dfe4bd819" />
+<img width="1366" height="768" alt="7" src="https://github.com/user-attachments/assets/bf69c541-c621-45d0-8d6b-f5a4b4a6fc65" />
+<img width="1366" height="759" alt="7 5" src="https://github.com/user-attachments/assets/755faddd-dfb6-43fc-ac8e-d1f1c129e4bc" />
+<img width="1364" height="761" alt="7 4" src="https://github.com/user-attachments/assets/1d86dc5b-c7df-449a-ba1a-4ebe4c6cfe45" />
+<img width="1365" height="763" alt="7 3" src="https://github.com/user-attachments/assets/35c3e72d-cfa6-4850-851c-a6b135ec4be5" />
+<img width="1366" height="761" alt="7 2" src="https://github.com/user-attachments/assets/48ea1cdb-40de-47f0-b00c-8686b1bd0367" />
+<img width="1361" height="763" alt="7 1" src="https://github.com/user-attachments/assets/8e0ac938-1fad-4cf1-8ef6-55de6044eb31" />
+<img width="1366" height="768" alt="6" src="https://github.com/user-attachments/assets/2db22bca-bebb-41f5-984e-2dff0efec5a6" />
+<img width="1360" height="768" alt="5" src="https://github.com/user-attachments/assets/204440a7-c164-46e7-99a7-803c8f58c96b" />
+<img width="1357" height="733" alt="4" src="https://github.com/user-attachments/assets/340d07a9-303d-44ce-af3f-84b4fbaceba1" />
+<img width="1361" height="759" alt="3" src="https://github.com/user-attachments/assets/aab81064-65f3-4dc9-834f-dc2544c9dad5" />
+<img width="1353" height="768" alt="2" src="https://github.com/user-attachments/assets/4adb723f-1d67-41c2-8c9b-c3115e3a14c9" />
+🚀 Meta Ads Performance Portfolio: Case Studies
+🕋 1. Travel Industry: Umrah & Ziarat Campaigns
+Objective: Generating high-intent inquiries for Umrah packages via Facebook Messaging Ads and Lead Forms.
+
+Total Reach: 101,400+ Targeted Accounts center-wide.
+
+Results: Successfully generated 1,200+ direct messaging conversations across multiple campaigns.
+
+Cost Efficiency: Achieved an incredible Cost Per Result (CPR) of Rs. 32 to Rs. 36, ensuring maximum ROI for the client.
+
+Strategy: Implemented lookalike audiences and detailed targeting for religious travelers, combined with high-converting video creatives.
+
+✈️ 2. International Tourism: Dubai & Malaysia "Done Base" Packages
+Objective: Driving leads for premium international holiday packages.
+
+Performance: One single campaign generated 618 high-quality messaging conversations.
+
+Engagement: Maintained a steady CTR (Click-Through Rate) and a frequency of 2.31, ensuring the brand stayed top-of-mind without over-saturating the audience.
+
+Optimization: Scaled the budget while maintaining a low cost per conversation (Rs. 32.11), which is significantly lower than the industry average for international tourism.
+
+✨ 3. Skin Care & Beauty: E-commerce Growth
+Objective: Scaling brand awareness and driving sales for skincare products through Meta Ads.
+
+Strategy: Focused on Creative Testing (Images vs. Reels) to identify high-performing hooks that resonate with the target demographic.
+
+Quality Ranking: Achieved "Above Average" Quality and Engagement Rankings on ads, which reduced the overall CPM and improved ad delivery.
+
+Outcome: Successfully built a funnel that captures cold traffic and retargets engaged users to maximize conversions and minimize ad spend waste.
+
+🛠️ My Performance Marketing Approach
+I don't just "run ads"—I build systems that grow businesses. My methodology includes:
+
+Data-Driven Optimization: Constantly monitoring CPC, CPM, and ROAS to ensure every rupee spent contributes to the bottom line.
+
+A/B Testing: Testing multiple ad creatives and headlines to find the "winning" combination.
+
+Funnel Building: Crafting the journey from "First Impression" to "Confirmed Booking/Sale."
+
+Industry Expertise: Proven track record in the Pet Industry, Travel & Tourism, and Skin Care sectors.
+
+"Turning ad spend into revenue is an art backed by data. Let’s scale your business together."
+
 Certified Media Buyer specializing in Google Ads &amp; Facebook Ads strategies for business growth.
 
 # 🐶 Case Study: Scaling a Pet Care Brand (Lavender Dog Spray)
